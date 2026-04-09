@@ -1,7 +1,7 @@
 # BioAnnotate_AI-Medical-Image-Classification
 
 BioAnnotate_AI is a practical Artificial Intelligence / Machine Learning (AI/ML) project developed to support the annotation, preprocessing, and classification of medical and biomedical image datasets.
-This project is designed to organize image data into structured categories such as Age, Anatomy, Genus, Number, Sex, Skin, and Type, making the dataset ready for machine learning and deep learning workflows.
+This project is designed to organize image data into structured categories such as Age, Anatomy, Genus, Number, Sex, Skin, and Type, making the dataset ready for machine learning and deep learning workflows. The goal of BioAnnotate_AI is to build a scalable AI/ML medical image annotation framework that can later be extended into a complete intelligent classification system for disease-related and biomedical visual analysis
 
 The system includes image preprocessing operations such as:
 
@@ -21,5 +21,46 @@ This project demonstrates my practical experience in:
     ∗ annotation-based model preparation
 
 🛠 Tools & Technologies
+
+Languages & Libraries
+
+    ∗ Python
+    ∗ NumPy
+    ∗ OpenCV
+    ∗ TensorFlow
+    ∗ Jupyter Notebook
+
+Jupyter Notebook
+
+    ∗ Visual Studio Code
+    ∗ Git/GitHub
+    ∗ Virtual Environment (venv)
+
+ML/AI Concepts Used
+
+    √ Machine Learning (ML)
+    √ Deep Learning
+    √ Computer Vision
+    √ Medical Image Classification
+    √ Convolutional Neural Networks (CNN)
+    √ Image Preprocessing
+    √ Label Encoding
+    √ One-Hot Encoding
+    √ Dataset Structuring
+    √ Training Data Preparation
+
+✨ Key Features
+
+    ∗ Organizes biomedical image datasets into structured ML-ready categories
+    ∗ Supports multi-category annotation and classification workflows
+    ∗ Converts raw image folders into training-ready NumPy arrays (.npy)
+    ∗ Prepares image datasets for CNN-based model training
+    ∗ Helps streamline future automated medical image analysis and annotation tasks
+ 
+
+    
+
+
+    
 
 
