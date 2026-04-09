@@ -1,0 +1,18 @@
+{
+  "genus_predict": "",
+  "genus_predict_perc": "",
+  "no_of_images_predict": "",
+  "no_of_images_predict_perc": "",
+  "skin_colour_predict": "",
+  "skin_colour_predict_perc": "",
+  "age_predict": "",
+  "age_predict_perc": "",
+  "image_type_predict": "",
+  "image_type_predict_perc": "",
+  "image_color_predict": "",
+  "image_color_predict_perc": "100%",
+  "image_sex_predict": "",
+  "image_sex_predict_perc": "",
+  "image_anatomy_predict": "",
+  "image_anatomy_predict_perc": ""
+}

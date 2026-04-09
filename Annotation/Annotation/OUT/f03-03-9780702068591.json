@@ -1,0 +1,14 @@
+{
+  "genus_predict": "Person",
+  "genus_predict_perc": "98.82%",
+  "no_of_images_predict": "Single",
+  "no_of_images_predict_perc": "98.54%",
+  "skin_colour_predict": "Type II",
+  "skin_colour_predict_perc": "23.83%",
+  "age_predict": "Adult",
+  "age_predict_perc": "99.98%",
+  "image_type_predict": "Photograph",
+  "image_type_predict_perc": "97.66%",
+  "image_color_predict": "Colour Image",
+  "image_color_predict_perc": ""
+}

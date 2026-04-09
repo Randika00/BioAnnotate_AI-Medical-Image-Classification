@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model / ML files
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Data files
+*.npy
+*.npz
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.rar
+
+# Images / datasets (edit if needed)
+dataset/
+data/
+train/
+test/
+val/
+images/
+
+# Build / cache
+build/
+dist/
+*.egg-info/
+.cache/
